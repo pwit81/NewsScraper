@@ -1,1 +1,2 @@
-# NewsScraper --- a trivial usage of newsapi.org service 
+# NewsScraper 
+A trivial usage of newsapi.org service 
